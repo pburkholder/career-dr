@@ -1,5 +1,5 @@
 
- Points not incorporated:
+ Points not yet incorporated:
 
 - Drill/GameDays		○ Leverage your performance review - do it quarterly
 
@@ -38,14 +38,25 @@ And since what I have to say my put me in jeopardy with future potential employe
 Your employer doesn't care about you. Your boss may try to, your CEO may try to, but even if they are well-intended they are subject to external forces: shareholders or a board.  This may be true even for you. Consider if you've been subject to any of the following:
 
 - ever signed an Noncompete? 
-- ever carried a pager been on call without at least a 7% raise? 
-- ever wondered if your compensation is fair compared to your peers 
-- ever wondered if you were harassed, whether HR side with your harasser instead of you? 
-- ever wondered, if you were laid off, would your severance suffice to cover you until your next job? 
-Has your employer invested in your career and training?  
+- ever been assigned uncompensated on-call duty? After-hours maintenance?
+- ever gone a year without attending a confernce, course or other training?
+- ever been subjected to "Unlimited PTO"?
+
+- Are you confident your compensation is fair compared to your peers 
+- Are you confident if you were harassed, you employer would support your claim? 
+- Are you confident if you were laid off, would your severance would cover you until your next job? 
 
 
+SLIDE: minimum viable union
+SLIDE: test-driven (employee) development
+SLIDE: Not your grandmother's/grandfather's union
+- If you dismiss unions out of hand, then you may be engaging in lazy thinking. Lazy thinking you wouldn't tolerate if one judged today's technology by their incarnation 25 years ago: Linux in the datacenter: Nonsense! Daily software releases: Dangerous!
 
-Internet2 - How do we make a more resilient workplace - Unions
+SLIDE: competitiveness
+- Personally, I would want a union that maintained the ability to re-org employees in response to market changes, and to shed dead weight. 
 
+Rants: "right-to-work laws" should be compensated by right to clawback CXO golden parachutes.
 
+Rants: Unions are anti-capitalist: No their just a market force countervailing the collusion between industrialists.
+
+Internet2 - How do we make a more resilient workplace - Unions (I was thinking Silicon Valley)
