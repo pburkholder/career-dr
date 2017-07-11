@@ -1,27 +1,21 @@
-1 Sacked. Yes, 15 months ago I, along with 7 colleagues in the “Customer Success” division of Chef Software, were let go. Although surprised by this turn of events, I decide to make the layoff a learning experience.
+1. Sacked. Yes, 15 months ago I, along with 7 colleagues in the “Customer Success” division of Chef Software, were let go. Although surprised by this turn of events, I decide to make the layoff a learning experience.
 
-2. Advisory panel: I didn’t do this alone. At two other DevOpsDays we had open spaces on “DR for your Career” and got great idea. Also, to ground truth, I’ve run these proposals past an advisory panel comprising an HR specialist, a Director of Engineering, and a CEO of multiple start-ups.
+2. Advisory panel: I didn’t do this alone. At two other DevOpsDays we had open spaces on “DR for your Career” and got great idea. Also, to ground truth, I’ve run these proposals past an advisory panel comprising an HR specialist, a Director of Engineering, and a CEO/founder of multiple start-ups.
 
 3. MTTR: Let’s apply DevOps principles of Disaster Recovery preparedness to tend to our own careers, starting with a core metric: Uptime. In the past, we focussed in mean-time-between-failures. But in a world of continuous delivery, the better metric is mean-time-to recovery.
 
-4. DR Prep: This decade we’ve seen a decline in median tenure in technical fields. Consider it inevitable that you’ll need to change jobs, either because you initiate that, or because you’re employer does. As with DR, one you don’t test your restore from back after the site goes down, but before. So most of our DR prep happens while you’re still employed. Key points:
+4. DR Prep: This decade we’ve seen a decline in median tenure in technical fields. Consider it inevitable that you’ll need to change jobs, either because you initiate that, or because you’re employer does. As with DR, one you don’t test your restore from backup after the site goes down, but before. So most of our DR prep happens while you’re still employed. Key points:
 
-	
+5. Metrics/Monitoring: It's hard to know how you're doing or where you stand. Humans are bad at gathering feedback, hearing it and learning from it. One standout: the first few chapters of "Thanks for the Feedback" by Stone & Heen.
 
-DR Prep:
-	- Offsite Backups
-		○ Logs - all comms regarding your position, all promises, keep notes from all meetings
-		○ Data
-	- Redundancy
-		○ Write references for others on LinkedIn
-	- Minimize Attack Surface
-	- Avoid Vendor LockIn & Embrace OpenSource
+6. Logs & Offsite Backups: Get commitments in writing, or pull a Mueller and write memos of key conversations. Document your contributions and their _impact_ such money saved or opportunities enabled. This is your offsite backup of your accomplishments.
+
+7. Redundancy/Minimize Attack Surface: Write references for colleagues on LinkedIn. 1. They'll ponder your contributions, 2. It'll demonstrate to future employers you engage in production Give & Take.  Speaking of social media: Minimize your attack surface. Don't talk smack on Twitter unless you can take the consequences.
+
+8. Avoid Vendor LockIn / Embrace OpenSource
 		○ Contribute to GitHub: 
 		○ Practice learning
 		○ Admit ignorance
-	- Metrics and Monitoring
-		- Establish clear OKRs. 
-		- Get feedback and learn to listen to it -- Thanks for the Feedback 
 	- Drill/GameDays
 		○ Leverage your performance review - do it quarterly
 		○ Apply for jobs
