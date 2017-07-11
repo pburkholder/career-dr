@@ -34,7 +34,7 @@
 
     SLIDE: Image + "Game Day"
 
-10. First: try to stay calm. An Oscar-worthy outburst may seem satisfying, but could jeopardize any further negotiaions. Ask questions, don't rush, take all morning. Legal advice is in order, and a bargain relative to mistakes you might make. Mull things over: don't sign anything. Say you feel under duress. You're legally ok. And Severance is a negotitiation, not a gift. 
+10. First: try to stay calm. An Oscar-worthy outburst may seem satisfying, but could jeopardize any further negotiaions. Ask questions, don't rush, take all morning. Legal advice is in order, and a bargain relative to mistakes you might make. Mull things over: don't sign anything.  You're legally ok to wait. And Severance is a negotitiation, not a gift, and ponder it carefully.
 
     SLIDE: CALMS:
         Calm
@@ -43,16 +43,11 @@
         Mull it over
         Severance
 
-11. Since we're now in the incident response phase, again, rely on best practie. Designate an incident commander
-		○ Maybe not your spouse or partner
-		○ Don't make precipitous decisions
-		○ And if you know someone who's been canned: Offer to help!
-	- Forensics
-		○ Keep all relevant documentation
+11. Since we're now in the incident response phase, again, rely on best practie. Designate an incident commander. Maybe not your spouse or partner, but a mentor, or someone in a job-hunting meetup.  And if you know someone who's been canned: Offer to help!  And follow Forensics practices in keeping all relevant documentation.
 
     SLIDE: "Incident Response: Incident Commander and Forensics"
 
-12. As for recovery, I'll emphasize just one point: Your job loss can be seen as a network failure. Use other networks. Last year I sent out email saying what I'd like to do, with example workplaces, including USDS & 18F, to various groups. In my community choir, it turned out, one of the Altos had a partner at 18F -- and from that connection I landed a job I'm really happy with.
+12. As for recovery, I'll emphasize just one point: Your job loss can be seen as a network failure. Use other networks. Last year I sent out email saying what I'd like to do, with example workplaces, including USDS & 18F, to various groups. In my community choir, it turned out, one of the Altos had a partner at 18F -- and from that connection I landed a job I'm really happy with. You don't know what lead will pan out: use them all.
 
     SLIDE: Image + "Route around network failure"
 
@@ -60,14 +55,3 @@
 13. SPOF and Horizontal Scaling: Everything we discussed so far is about you, as single working unit. That makes you a single-point of failure, as it were. How do we introduce redundancy, or enabling scaling, into this system? By employee organizing -- and here we go into content _not_ endorsed by my advisory panel....
 
 
-Jill, Tony, Rick:
-
-As I mentioned, I'm giving an Ignite talk at DevOpsDays DC next week, where I thought I'd apply general DevOps principles to the idea of "Disaster Recovery for your Career."
-
-Personally, I like to know that any advice I'm hearing has been validated by other knowledgeable folks and is not just one person's opinion. So I thought it would be useful for my audience to know to that I'm not just making shit up.
-
-Nothing I'm saying in my first 12 slides is particularly controversial, so what I'm asking is:
-a) correct me if I'm saying something particularly off-key or 
-b) pipe up if I'm missing something obviously useful, especially if it maps to a technical practice.
-
-If you can, please comment on this pull request before EOD Wednesday. Thanks! -Peter
