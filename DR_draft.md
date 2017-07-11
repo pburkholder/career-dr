@@ -7,13 +7,6 @@
 ======
 
 Incident response:
-	When Fired: Know how to react when fail happens 
-	- Calms: not CALMS, just don't make a bad situation worse
-		○ Calm
-		○ Ask
-		○ Legal advice
-		○ Mull it over
-		○ Severance
 	- Designate an incident commander
 		○ Maybe not your spouse or partner
 		○ Don't make precipitous decisions

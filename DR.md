@@ -14,6 +14,25 @@
 
 8. Continuous Delivery & Embrace Open-source: You are own product: Learn. Experiment. Make small failures and correct. Admit ignorance daily.  And participate in OpenSource: Even if you can't use GitHub at work. Comment on issues and improve documentation. It'll be noticed.
 
-9. Game Day: Any DR plan needs testing. Update your resume yearly.  Practice job hunting and interviewing. Don't waste anyone's time, but you can say: "I'm happy with my job, but I'm interested in your post. Can we take 20 minutes to talk about it?"
+9. Game Day: Any DR plan needs testing. Update your resume yearly.  Practice job hunting and interviewing. Don't waste anyone's time, but you can say: "I'm happy with my job, but I'm interested in your post. Can we take 20 minutes to talk about it?".  But what to do if you are sacked? As with DevOps, Practice CALMs:
 
-10. Incident response: 
+10. CALMS:
+    Calm
+    Ask questions
+    Lawyer up
+    Mull it over
+    Severance
+
+    First: try to stay calm. An Oscar-worthy outburst may seem satisfying, but could jeopardize any further negotiaions. Ask questions, don't rush, take all morning. Legal advice is in order, and a bargain relative to mistakes you might make. Mull things over: don't sign anything. Say you feel under duress. You're legally ok. And Severance is a negotitiation, not a gift. 
+
+11. Incident response:
+	- Designate an incident commander
+		○ Maybe not your spouse or partner
+		○ Don't make precipitous decisions
+		○ And if you know someone who's been canned: Offer to help!
+	- Forensics
+		○ Keep all relevant documentation
+
+12. Recovery:
+
+        
