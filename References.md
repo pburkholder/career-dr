@@ -18,3 +18,10 @@ Unlimited PTO: https://digiday.com/careers/dark-side-unlimited-vacation-policies
 Or just search: https://www.google.com/search?q=lStudies+actually+suggest+that+unlimited+time+off+leads+to+less+time+actually+taken&oq=lStudies+actually+suggest+that+unlimited+time+off+leads+to+less+time+actually+taken
 
 - I think many entrepeneurs want to do good, but they lose sight of that under pressure from boards of directors and CFO and market forces. Unions can provide a counter-balance that actually works in favor of the founder's core values. https://www.nytimes.com/2017/03/23/opinion/thinx-what-a-startups-scandal-says-about-your-workplace.html?_r=0
+
+
+Zenefits: https://sfbay.ca/2017/06/20/zenefits-to-pay-millions-in-unpaid-overtime/
+
+2017-6-21: https://www.cjr.org/business_of_news/digital-media-unions.php
+
+Black workers were more likely to be union members than were White, Asian, or Hispanic workers. (See table 1.) https://www.bls.gov/news.release/union2.nr0.htm 2017-01-26
