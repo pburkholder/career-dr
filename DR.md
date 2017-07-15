@@ -1,115 +1,86 @@
 1. Sacked. Yes, 15 months ago I, along with 7 colleagues in the “Customer Success” division of Chef Software, were let go. Although stunned by this turn of events, I decided early on to make the layoff a learning experience.
 
-    SLIDE: Image TBD
+    SLIDE: SACKED
 
 2. Advisory panel: I didn’t do this alone. At two other DevOpsDays I facilitated open spaces on “DR for your Career” and got some great ideas for how to map our technical best practices to the "uptime" for our own careers. Also, I’ve run these proposals past an advisory panel comprising an HR specialist, a Director of Engineering, and a CEO/founder of multiple start-ups.
 
-    SLIDE: Photos, names, positions for Tony, Rick, Jill
+    SLIDE: DODs, ADO, Rick, Jill, Tony
 
-3. Let’s apply DevOps and Disaster Recovery preparedness to our own careers, starting with a core metric: Uptime. Traditionally, in operations and in our careers, we focussed on mean-time-between-failures (MTBF). But in a world of continuous delivery/DevOps, the better metric is mean-time-to recovery (MTTR). Do you need DR prep? Here's a simple decision tree: Do you have a job? If yes, then you're a risk for losing it.technical fields. Consider it inevitable that you’ll need to change jobs, either because you initiate that, or because you’re employer does. As with DR, one you don’t test your restore from backup after the site goes down, but before. So most of our DR prep happens while you’re still employed. Key points:
+3.     
+
+    SLIDE: DODs, ADO, Rick, Jill, Tony With MTTR v MTBF
+
+4. Let’s apply DevOps and Disaster Recovery preparedness to our own careers, starting with a core metric: Uptime. Traditionally, in operations and in our careers, we focussed on mean-time-between-failures (MTBF). But in a world of continuous delivery/DevOps, the better metric is mean-time-to recovery (MTTR). Do you need DR prep? Here's a simple decision tree: Do you have a job? If yes, then you're a risk for losing it.technical fields. Consider it inevitable that you’ll need to change jobs, either because you initiate that, or because you’re employer does. As with DR, one you don’t test your restore from backup after the site goes down, but before. So most of our DR prep happens while you’re still employed. Key points:
 
     SLIDE: trends in tenure from Bureau of Labor Statistics
 
-5. Metrics/Monitoring: It's hard to know how you're doing or where you stand. Humans are bad at gathering feedback, hearing it and learning from it. My recommendation: the first few chapters of "Thanks for the Feedback" by Stone & Heen. Make sure you're getting reviews/feedback quarterly, not annually
+5. However with 5 minutes to work with, and just great feedback from my Advisory Panel, any sensible mapping from DevOps best practices
+to career best practices just became a jumble of words that I couldn't do justice to. Further, so much of what'd suggested at our OpenSpaces and the Arrested DevOps episode didn't address the most important resilence / HA principle of all:
 
-    SLIDE: Image + "Metrics & Monitoring"
-
-6. Logs & Offsite Backups: Get commitments in writing, or pull a Robert Mueller and write memos of key conversations. Document your contributions and their _impact_ such money saved or opportunities enabled. This is your offsite backup of your accomplishments.
-
-    SLIDE: Image + "Logs and Offsite Backups"
-
-7. Redundancy/Minimize Attack Surface: Write references for colleagues on LinkedIn. 1. They'll ponder your contributions, 2. It'll demonstrate to future employers you engage in production Give & Take.  Speaking of social media: Minimize your attack surface. Don't talk smack on Twitter unless you can take the consequences.
-
-    SLIDE: Image + "Redundancy & Minimize Attack Surface"
-
-8. Continuous Delivery & Embrace Open-source: You are own product. Improve it continually: Learn. Experiment. Make small failures and correct. Admit ignorance daily.  And participate in OpenSource: Even if you can't use GitHub at work. Comment on issues and improve documentation. It'll be noticed.
-
-    SLIDE: Image + "Continuous Delivery & Embrace Open-Source"
-
-9. Game Day: Any DR plan needs testing, in what are called "Game Day" events. For you, this means: Update your resume yearly.  Practice job hunting and interviewing. Don't waste anyone's time, but you can say: "I'm happy with my job, but I'm interested in your post. Can we take 20 minutes to talk about it?".  But what to do if you are sacked? As with DevOps, Practice CALMs:
-
-    SLIDE: Image + "Game Day"
-
-10. First: try to stay calm. An Oscar-worthy outburst may seem satisfying, but could jeopardize any further negotiaions. Ask questions, don't rush, take all morning. Legal advice is in order, and a bargain relative to mistakes you might make. Mull things over: don't sign anything.  You're legally ok to wait. And Severance is a negotitiation, not a gift, and ponder it carefully.
-
-    SLIDE: CALMS:
-        Calm
-        Ask questions
-        Lawyer up
-        Mull it over
-        Severance
-
-11. Since we're now in the incident response phase, again, rely on best practie. Designate an incident commander. Maybe not your spouse or partner, but a mentor, or someone in a job-hunting meetup.  And if you know someone who's been canned: Offer to help!  And follow Forensics practices in keeping all relevant documentation.
-
-    SLIDE: "Incident Response: Incident Commander and Forensics"
-
-12. As for recovery, I'll emphasize just one point: Your job loss can be seen as a network failure. Use other networks. Last year I sent out email saying what I'd like to do, with example workplaces, including USDS & 18F, to various groups. In my community choir, it turned out, one of the Altos had a partner at 18F -- and from that connection I landed a job I'm really happy with. You don't know what lead will pan out: use them all.
-
-    SLIDE: Image + "Route around network failure"
+    SLIDE: (Complex Map)
 
 
+6. SPOF and Horizontal Scaling: Everything we discussed so far is about you, as single working unit. That makes you a single-point of failure, as it were. How do we introduce redundancy, or enabling scaling, into this system? By employee organizing -- and here we go into content _not_ endorsed by my advisory panel....
+
+   SLIDE: Failure here may mean death below
 
 
+7. Your employer doesn't care about you. In the openspaces I've held I've been suprised how many people think their employer cares about them. Note that your boss may care about your, and even your CEO may try her best care about you. But your employer is the corporate entity: driven by investors, shareholders, boards, and when the chips are down, it does not care about you.
+
+    SLIDE: Plutocrat
+
+8.  Not convinced: Do you answer yes to any of these questions?
+
+    SLIDE: Noncompete? OnCall? Training? Unlimited PTO
+
+. Or no to any of these?
+
+    SLIDE: Compensation, Harassment, Severance
 
 
-
-13. SPOF and Horizontal Scaling: Everything we discussed so far is about you, as single working unit. That makes you a single-point of failure, as it were. How do we introduce redundancy, or enabling scaling, into this system? By employee organizing -- and here we go into content _not_ endorsed by my advisory panel....
-
-
-14. Your employer doesn't care about you. In the openspaces I've held I've been suprised how many people think their employer cares about them. Note that your boss may care about your, and even your CEO may try her best care about you. But your employer is the corporate entity: driven by investors, shareholders, boards, and when the chips are down, it does not care about you.
+10. The news has had no shortage of stories about tech sector employer misbehavior from A-Z.literally from Amazon to Zenefits, with a hearty helping of Uber to fill your plate. A corrective: employee organizing / collective action. There's a name for the folks who brought you the weekend & the 40-hour work week:
 
 
-15. Not convinced: Do you answer yes to any of these questions?
-- Did you ever think your employer was decent at the time, but after you left you realized just how poorly they treated you or others?
-- ever signed an Noncompete? 
-- ever been assigned uncompensated on-call duty? After-hours maintenance?
-- ever gone a year without attending a confernce, course or other training?
-- ever been subjected to "Unlimited PTO"?
+    SLIDE: HEADLINES
 
-16. Or no to any of these?
-- Are you confident your compensation is fair compared to your peers 
-- Are you confident if you were harassed, you employer would support your claim? 
-- Are you confident if you were laid off, would your severance would cover you until your next job?
-
-
-17. The news has had no shortage of stories about tech sector employer misbehavior from A-Z.literally from Amazon to Zenefits, with a hearty helping of Uber to fill your plate. A corrective: employee organizing / collective action. There's a name for the folks who brought you the weekend & the 40-hour work week:
-
+11. 
 
    SLIDE: Bezos: I don't recognize this Amazon
 
-18. So, on the one hand there's this mistaken notion that our employing entities care about us, and on the other there's a lot of mistaken notions about unions. In fact, I'd guess many of you are about to dismiss this unions out of hand. If so, ask yourself if your engaging in lazy thinking. Lazy thinking you wouldn't tolerate in technical discussion like
+12. So, on the one hand there's this mistaken notion that our employing entities care about us, and on the other there's a lot of mistaken notions about unions. In fact, I'd guess many of you are about to dismiss this unions out of hand. If so, ask yourself if your engaging in lazy thinking. Lazy thinking you wouldn't tolerate in technical discussion like
 
    SLIDE: A Union
 
 
-19. Do you hold the same opinions on topics like language choice, software delivery, and infrastructure automation as you did 15 years ago? I hope not. And as As with employee organzing, they're topics that are broad & deep, that vary greatly in their implementation, and that have changed a lot, a lot, in the last 10-20 years. So let's take a fresh look.
+13. Do you hold the same opinions on topics like language choice, software delivery, and infrastructure automation as you did 15 years ago? I hope not. And as As with employee organzing, they're topics that are broad & deep, that vary greatly in their implementation, and that have changed a lot, a lot, in the last 10-20 years. So let's take a fresh look.
 
-   SLIDE:
-    - Static v Dynamic typing or OOP v Functional
-    - Continuous Integration and Delivery
-    - Configuration Management
+   SLIDE: IBM computer
 
-20. Not for people like me. 
+14. Not for people like me. 
 
     SLIDE: image of prof/nonprof unions https://www.theatlas.com/charts/rkuNRR9Fe
-      w: Gawker, Fusion, HuffPost, The Root, Salon, Vice, MTV News, Think Progress, Thrillist
 
-21. Kill competitiveness
+15. 
 
-22. Undemocratic and Expensive
+    SLIDE: w: Gawker, Fusion, HuffPost, The Root, Salon, Vice, MTV News, Think Progress, Thrillist
 
-23. Unions are a bulwark against discriminatory practices. 
+16. 
 
-    SLIDE: 19¢ v 11¢
+    SLIDE: Switchboard operators
 
-23. YAGNI
+17. Unions are a bulwark against discriminatory practices. 
 
-23. Minimum Viable Product
+    SLIDE: 19¢ v 10¢
 
-24. Enable TDD
-
-25. 
+18. 
+    SLIDE: Tinkerer
 
 
+19. Enable TDD
 
-    
+    SLIDE: Wartime AssemblyWomen
+
+20. A
+
+    SLIDE: Taking a Bow
+

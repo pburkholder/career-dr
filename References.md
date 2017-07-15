@@ -25,3 +25,12 @@ Zenefits: https://sfbay.ca/2017/06/20/zenefits-to-pay-millions-in-unpaid-overtim
 2017-6-21: https://www.cjr.org/business_of_news/digital-media-unions.php
 
 Black workers were more likely to be union members than were White, Asian, or Hispanic workers. (See table 1.) https://www.bls.gov/news.release/union2.nr0.htm 2017-01-26
+
+Gender gap is 19¢ in the non-unionized workforce, and 10¢ in the unionized work force (2016)
+https://www.bls.gov/news.release/union2.t02.htm 2017-01-26
+
+
+Non-Competes: https://www.nytimes.com/2017/07/14/business/economy/boise-idaho-noncompete-law.html
+
+https://www.nytimes.com/2017/05/31/podcasts/the-daily/non-compete-clauses.html?action=click&contentCollection=Economy&module=RelatedCoverage&region=Marginalia&pgtype=article
+https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html

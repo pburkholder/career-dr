@@ -1,7 +1,10 @@
 
- Points not yet incorporated:
+## Closing points:
 
-- Drill/GameDays		○ Leverage your performance review - do it quarterly
+Let's focus on a few things:
+- The best practices of DevOps for site & application availability also apply to maintaining your own availibilty
+- Now, when you think you need a voice for employees in your org, and someone talks to you about collective bargaining, listen
+- And, to demonstrate that we have market impact: let's stamp out non-compete agreements. 
 
 
 ======
