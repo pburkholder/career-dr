@@ -73,14 +73,15 @@ to career best practices just became a jumble of words that I couldn't do justic
     SLIDE: 19¢ v 10¢
 
 18. 
+
     SLIDE: Tinkerer
 
 
-19. Enable TDD
+19. Let me drill 3 points home. One: Practice SRE for your career. All your wisdom can be applied to your most important product: You. Two: Our profession should eliminate DDOS attacks by refusing non-competes. Ask, before an interview, and if a prospect uses them, take a pass.  (20s)
 
     SLIDE: Wartime AssemblyWomen
 
-20. A
+20. Three: Don't bow out of opportunites for giving employees a voice. A more competitive, productive workplace is possible. Assess reality, not myths, if a union comes knocking. And on that note, I'll take my own bow - Thank you so much for your time & attention. (16s)
 
     SLIDE: Taking a Bow
 
