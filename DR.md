@@ -1,7 +1,7 @@
     SLIDE: SACKED
 1. Sacked. Yes, 15 months ago I, along with 7 colleagues in the “Customer Success” division of Chef Software, were let go. Although stunned by this turn of events, I decided early on to make the layoff a learning experience.
 
-
+    SRE for your CAREER
     SLIDE: DODs, ADO, Rick, Jill, Tony
 2. Advisory panel: I didn’t do this alone. At two other DevOpsDays I facilitated open spaces on “DR for your Career” and got some great ideas for how to map our technical best practices to the "uptime" for our own careers. Also, I’ve run these proposals past an advisory panel comprising an HR specialist, a Director of Engineering, and a CEO/founder of multiple start-ups.
 
@@ -48,22 +48,22 @@ Those of you photograph slide - get the next one.
    SLIDE: IBM computer
 13. Do you hold the same opinions on topics like language choice, software delivery, and infrastructure automation as you did 15 years ago? I hope not. And as As with employee organzing, they're topics that are broad & deep, that vary greatly in their implementation, and that have changed a lot, a lot, in the last 10-20 years. So let's take a fresh look.
 
-
-14. Not for people like me. 
-
     SLIDE: image of prof/nonprof unions https://www.theatlas.com/charts/rkuNRR9Fe
 
-15. 
+14. Professional union membership has been growing, in some part because we're seeing new models emerging, a "minimum viable union" that aims provide a voice and a seat at the table while maintaining competitiveness. This includes new media outfits, 
 
     SLIDE: w: Gawker, Fusion, HuffPost, The Root, Salon, Vice, MTV News, Think Progress, Thrillist
+15. where workers recognize competitiveness is vital. So layoffs can address a content or editorial pivot, and the contract guarantees transparency, a grievance process, and severance benefit. The grievance process in particular
 
-16. 
 
     SLIDE: Switchboard operators
+16. protect women, minorities and other under-represented groups. So imagine an Uber where Susan Fowler had a union rep at her side instead of duplicitous HR reps. And these benefits are material as well.  While the gender pay gap is 19 cents on the dollar nationally,
 
-17. Unions are a bulwark against discriminatory practices. 
 
     SLIDE: 19¢ v 10¢
+17. for union members the gap closes to 10 cents on the dollar. Still sad, but an improvement. And unions can enhance ... example of health outcomes improving in unionized nurses.  
+- 
+
 
 18. 
 
