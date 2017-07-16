@@ -1,6 +1,9 @@
 DevOpsDays open spaces: DR for your career
 http://e.devopsdaysdc.org/p/openspace-spades-A
 
+SRE and MTTR/MTBF: https://landing.google.com/sre/interview/ben-treynor.html
+
+
 
 
 Declining tenure in technical positions:
@@ -34,3 +37,7 @@ Non-Competes: https://www.nytimes.com/2017/07/14/business/economy/boise-idaho-no
 
 https://www.nytimes.com/2017/05/31/podcasts/the-daily/non-compete-clauses.html?action=click&contentCollection=Economy&module=RelatedCoverage&region=Marginalia&pgtype=article
 https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html
+
+
+When Nurses Unionize, health care outcomes improve. Nurse unions and patient outcomes
+A Dube, E Kaplan, O Thompson - ILR Review, 2016 - journals.sagepub.com 
