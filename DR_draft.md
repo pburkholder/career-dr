@@ -31,3 +31,6 @@ Rants: Unions are anti-capitalist: No they're just a market force countervailing
 
 TALK with AFGE on Friday!! - Done
 
+With advice from a team of labor law experts, he founded the single-issue union- organizing campaign, Employee Association to Renegotiate Noncompetes (EARN) in 2016. Because EARN’s “pop-up unions,” organized under the National Labor Relations Act, are designed to only engage the company on one issue and then dissolve, companies would rather negotiate and move on than deal with the creation of a full-fledged union in its midst, Johnson says.
+
+

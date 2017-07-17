@@ -1,27 +1,32 @@
     SLIDE: SACKED
-1. 15 months ago, I was one of 7 people laid off from a successful startup. We weren't expectng this reoorg, and we were all stunned. But I set out early on to make the layoff a learning experience. And I didn't do this alone. 
+1. 15 months ago, I was one of 7 people laid off from a successful startup. We weren't expectng the reoorg, and were all stunned. But I set out early on to make the layoff a learning experience. And I didn't do this alone. (13s)
 
-    SRE for your CAREER
     SLIDE: DODs, ADO, Rick, Jill, Tony
-2. At other DevOpsDays I proposed openspaces on what I now call "SRE for your Career" and soaked up great ideas on Reliability Engineering for the "uptime" in your career. And for the first part of this talk I got advisory panel input from an HR specialist, a VP of Engineering, and a CEO-Founder.
+2. At other DevOpsDays I proposed openspaces on what I now call "SRE for your Career" and heard great ideas on Reliability Engineering for the "uptime" in your career. And this advisory panel, provided a thumbs up for the first half of this talk. (14)
 
-    SLIDE: DODs, ADO, Rick, Jill, Tony With MTTR v MTBF
-3. Reliability engineering assumes failure is inevitable. For modern careers, as with modern technology systems, the key metric in the face of failure is not mean-time-between-failures, MTBF, but mean-time-to-recovery, MTTR.
+
+    SLIDE: (Above) With MTTR v MTBF
+3. Reliability engineering assumes failure is inevitable. For modern careers, as with modern technology systems, the key metric in the face of failure is not mean-time-between-failures, MTBF, but mean-time-to-recovery, MTTR. (14)
 
 
     SLIDE: trends in tenure from Bureau of Labor Statistics
-4. ?With technical job tenure declining, do you need to prepare for failure, for job loss? Well, if you have job: YES, prep for failure. So lets map DevOps and SRE practices for before, during and after an "Incident":
+4. With technical job tenure declining, with an industry in constant flux, you should prepare for job changes as you would for system changes and outages. And you can map SRE & DevOps practice to your career as shown here:
 
 
   SLIDE: (Complex Map)
- 5. My advisory panel approved this mapping: But. But when I stepped back, and put on my systems thinking hat, I saw two glaring holes that were outside an individual's control.  One: Denial of Service attacks (AKA non-compete clauses) and 
+ 5. (2s pause) But after running this by my panel, I stepped back to consider the SYSTEM, and saw two gaps over which you have little control: 
+ 
+ 
+ One - Denial of Service attacks, and TWO, single points of failure.
 
   SLIDE: Failure here may mean death below
-6. Single points of failure. First: Non-competes, a talk unto itself. Suffice to say these employment restrictions are growing to the detriment of tech workers and others. Note that California forbids them, and the evidence is they hinder broader economic growth. So lets get rid of them!
+6. First: Denial of Service Attacks, which I map to NonCompete clauses - as Denial of Employment attacks. Let's put an end to them! Noncompetes are bad for tech workers and the economy. California doesn't need 'em, either do we. (16s)
 
 
   SLIDE: Plutocrat
-7. Second: Single points of failure: Namely You. You in relationship to your employer are a single point of failure.  Folks I've talked to believe their employer cares about them. To be fair: Your boss, even your CEO, may care about you. But your employer as a corporate entity does not. Unconvinced? Consider these questions:
+7. Second: Single point of failure:  You. You are a single point of failure in the context of your employment. Folks may think their employer cares about them. To be fair: Your boss, even your CEO, may care about you. 
+
+But your employer as a corporate entity does not. Unconvinced? Consider these questions:
 
   SLIDE: Noncompete? OnCall? Training? Unlimited PTO
 8.  Have you been subject to non-competes: or the "denial-of-employment" attack. How about on call rotation without a bump in pay? Been shorted on training? Or subjected to "unlimited PTO" which results in less vacation AND less pay?
