@@ -1,55 +1,36 @@
 
- Points not yet incorporated:
+## Checklist of major points to make:
 
-- Drill/GameDays		○ Leverage your performance review - do it quarterly
+_ Personally, I would want to have been laid off. This is not sour grapes. In a union scenario I would have still been laid off to reflect changing priorities at that company, but I would have known that all of us laid-off had severance packages that were equitable and sufficient.
 
 
+_ Emphasize performance over seniority
+_ Improve competitiveness
+_ Enhance diversity
+_ You aren't management. Keep employee perspective. Unions are for people like you.
+_ A Union is YOU. It's not an outside entity. A national affiliation provides resources, but it's you and your colleagues who are given a voice. As with an MVP; you can run an experiment
+_ Suggest people photograph the mapping slide (skip)
+_ Like life insurance, don't wait until you're sick (skip)
+_ Lots of FUD. (skip)
+_ Aren't expensive (skip)
+_ Unions akin to TDD (skip)
 ======
 
-Incident response:
-	- Designate an incident commander
-		○ Maybe not your spouse or partner
-		○ Don't make precipitous decisions
-		○ And if you know someone who's been canned: Offer to help!
-	- Forensics
-
-Recovery
-	- Route around network failures
-		○ Use all your networks to find a new position
-			§ Getting a new one relies on your backup networks 
-			§ Don't put all your DNS servers on the same subnet
-		○ Find other people looking for work and commiserate/support each other. 
-			§ This has been hard for me. I felt like a failure and didn't want to be associated with other failures.
-
-There's a whole class of career failure modes I've not discussed:
-	- Eliminate SPOFS
-	- Embrace horizontal scaling
-	- Avoid monolithic architectures
-	- Mitigate against potential DDOS
 And since what I have to say my put me in jeopardy with future potential employers, if you are a hiring manager or in HR, I'd like to introduce you to my fidget spinner. Look. Ohhhhhh. Now just keep watching that, and the rest of you line employees follow what I say:
-
-Your employer doesn't care about you. Your boss may try to, your CEO may try to, but even if they are well-intended they are subject to external forces: shareholders or a board.  This may be true even for you. Consider if you've been subject to any of the following:
-
-- ever signed an Noncompete? 
-- ever been assigned uncompensated on-call duty? After-hours maintenance?
-- ever gone a year without attending a confernce, course or other training?
-- ever been subjected to "Unlimited PTO"?
-
-- Are you confident your compensation is fair compared to your peers 
-- Are you confident if you were harassed, you employer would support your claim? 
-- Are you confident if you were laid off, would your severance would cover you until your next job? 
-
 
 SLIDE: minimum viable union
 SLIDE: test-driven (employee) development
 SLIDE: Not your grandmother's/grandfather's union
-- If you dismiss unions out of hand, then you may be engaging in lazy thinking. Lazy thinking you wouldn't tolerate if one judged today's technology by their incarnation 25 years ago: Linux in the datacenter: Nonsense! Daily software releases: Dangerous!
+
+What I've discovered is a lot of uninformed but strongly held opinions. And FUD, Fear/Uncertainty/Doubt, worthy of 1980s-era IBM disinformation campaign.
 
 SLIDE: competitiveness
 - Personally, I would want a union that maintained the ability to re-org employees in response to market changes, and to shed dead weight. 
 
-Rants: "right-to-work laws" should be compensated by right to clawback CXO golden parachutes.
+Rants: Unions are anti-capitalist: No they're just a market force countervailing the collusion between industrialists.
 
-Rants: Unions are anti-capitalist: No their just a market force countervailing the collusion between industrialists.
+TALK with AFGE on Friday!! - Done
 
-Internet2 - How do we make a more resilient workplace - Unions (I was thinking Silicon Valley)
+With advice from a team of labor law experts, he founded the single-issue union- organizing campaign, Employee Association to Renegotiate Noncompetes (EARN) in 2016. Because EARN’s “pop-up unions,” organized under the National Labor Relations Act, are designed to only engage the company on one issue and then dissolve, companies would rather negotiate and move on than deal with the creation of a full-fledged union in its midst, Johnson says.
+
+
